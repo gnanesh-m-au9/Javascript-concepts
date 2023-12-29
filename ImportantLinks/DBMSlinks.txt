@@ -1,0 +1,15 @@
+https://leetcode.com/problems/combine-two-tables/
+https://leetcode.com/problems/employees-earning-more-than-their-managers/
+https://leetcode.com/problems/delete-duplicate-emails/
+https://leetcode.com/problems/rising-temperature/
+https://leetcode.com/problems/employee-bonus/
+https://leetcode.com/problems/product-sales-analysis-i/
+https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/
+https://leetcode.com/problems/npv-queries/
+
+
+OFFICIAL POSTGRES EXERCISES LIST
+https://pgexercises.com/questions/basic/
+
+W3 SCHOOLS GOOD SET OF EXERCISES
+https://www.w3schools.com/sql/exercise.asp

@@ -1,0 +1,20 @@
+1. https://www.interviewbit.com/java-collections-interview-questions/
+2. https://stackify.com/streams-guide-java-8/
+
+
+COVARIANCE,CONTRAVARIANCE, INVARIANCE READING
+3. https://vadzimv.dev/2019/10/01/generic-programming-part-1-introduction.html
+4. https://stackoverflow.com/questions/8481301/covariance-invariance-and-contravariance-explained-in-plain-english
+5. https://www.interviewbit.com/java-collections-interview-questions/
+6. https://www.baeldung.com/java-type-erasure
+
+
+CONCURRENCY
+7.https://www.callicoder.com/java-concurrency-multithreading-basics/
+8.https://www.scaler.com/topics/java/functional-programming-in-java/
+
+
+COLLECTIONS LINKS
+9. https://static.javatpoint.com/images/java-collection-hierarchy.png
+10. https://www.educative.io/courses/java-8-lambdas-stream-api-beyond/R888OpmM5WO
+11. https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/
